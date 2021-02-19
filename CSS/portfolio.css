@@ -218,7 +218,7 @@ footer {
     padding: 10px;
     padding-top: 1.9%;
     height: 400px;
-    background-color: #00004d;
+    background-color: #343579;
 }
 
 /* This class is applied to the columns in the final row, overriding the height and padding to provide more room for the contact form  while keeping the rest of the formatting from Column_1 or Column_2 */
@@ -251,7 +251,7 @@ input[type=text] {
 
 /* Hover effects for input boxes */
 input[type=text]:hover {
-    box-shadow: 0 0 5px #00004d inset; /* This creates a blue shadow in the text box when hovered over by the user */
+    box-shadow: 0 0 5px #343579 inset; /* This creates a blue shadow in the text box when hovered over by the user */
 }
 
 /* Submit button */
